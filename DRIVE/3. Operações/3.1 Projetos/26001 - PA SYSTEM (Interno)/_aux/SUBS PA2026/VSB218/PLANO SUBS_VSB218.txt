@@ -1,0 +1,2 @@
+PLANO SUBS_HUGO SCOOP 1.6
+LINK: https://planssystemes.notion.site/Hugo-Full-Scoop-1-6-6f6f59c67fc341e2bb277ab5c7cb4425
