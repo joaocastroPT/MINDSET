@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="OspZ58fTHzxR08HM2TJk">
+    <mxGraphModel dx="1030" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-8" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-8FnPKQZqh43TVpX9D3F-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Comunicação analógica" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-9" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-8FnPKQZqh43TVpX9D3F-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-17" connectable="0" parent="-8FnPKQZqh43TVpX9D3F-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Instalação temporária" vertex="1">
+          <mxGeometry relative="1" x="0.7963" y="2" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-15" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-8FnPKQZqh43TVpX9D3F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-16" connectable="0" parent="-8FnPKQZqh43TVpX9D3F-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Instalação fixa" vertex="1">
+          <mxGeometry relative="1" x="0.38" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Comunicação&amp;nbsp;&lt;div&gt;digital&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="401.25" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-4" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-8FnPKQZqh43TVpX9D3F-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="140" />
+              <mxPoint x="200" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-5" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-8FnPKQZqh43TVpX9D3F-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="140" />
+              <mxPoint x="461" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-6" connectable="0" parent="-8FnPKQZqh43TVpX9D3F-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Informação sobre o pedido (instalação ou aluguer)&lt;br&gt;mão de obra necessária&lt;br&gt;duração, local, data e hora" vertex="1">
+          <mxGeometry relative="1" x="-0.7217" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Cliente" vertex="1">
+          <mxGeometry height="80" width="80" x="290" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eventos" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-10" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-7" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="450" as="sourcePoint" />
+            <mxPoint x="200" y="470.71067811865476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-11" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Organização, requisitos necessários, comunicação à direção, caso necessário comunicação com operações para ver material necessário e orçamentação" vertex="1">
+          <mxGeometry height="120" width="222.5" x="88.75" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Operações" vertex="1">
+          <mxGeometry height="60" width="120" x="401.25" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-13" edge="1" parent="1" source="-8FnPKQZqh43TVpX9D3F-12" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="461.25" y="450" as="sourcePoint" />
+            <mxPoint x="461.25" y="470.71067811865476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8FnPKQZqh43TVpX9D3F-14" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Organização, requisitos necessários, comunicação à direção, orçamentação, instalação" vertex="1">
+          <mxGeometry height="120" width="222.5" x="350" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
